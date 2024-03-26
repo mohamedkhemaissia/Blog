@@ -1,2 +1,2 @@
 # Blog
-a blog for creating postq
+a blog for creating posts
